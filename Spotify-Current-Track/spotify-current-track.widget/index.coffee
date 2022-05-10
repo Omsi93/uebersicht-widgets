@@ -20,7 +20,7 @@ refreshFrequency: 2000
 style: """
   bottom: 10px
   left: 10px
-  color: #fff
+  color: #00000
 
   .output
     font-family: Helvetica Neue
